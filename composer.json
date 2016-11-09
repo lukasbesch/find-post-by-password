@@ -1,0 +1,12 @@
+{
+    "name": "lukasbesch/find-post-by-password",
+    "description": "WordPress plugin adds form to let users access password protected posts just by knowing the password",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Lukas Besch",
+            "email": "connect@lukasbesch.com"
+        }
+    ],
+    "require": {}
+}
